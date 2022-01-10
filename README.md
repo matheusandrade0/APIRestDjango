@@ -1,4 +1,4 @@
-# trabalho_faculdade
+# trabalho da faculdade - Uma API Rest feito com djangoRest
 - abre  o cmd
 - cd listaa
 - python -m venv venv 
